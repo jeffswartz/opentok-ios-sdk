@@ -21,6 +21,11 @@ Support is available at the OpenTok forums: http://www.tokbox.com/forums/
 New features
 ------------
 
+May 15, 2013
+
+* This is version 1.4.2 of the OpenTok iOS SDK.
+* This release fixes some issues that were occuring when the OpenTok library ran in the background.
+
 April 9, 2013
 
 * This is version 1.4.1 of the OpenTok iOS SDK.
